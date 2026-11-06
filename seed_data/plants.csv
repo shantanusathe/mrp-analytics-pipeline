@@ -1,0 +1,4 @@
+plant_code,plant_name,city,state,region,timezone,capacity_units_per_day
+PLT-001,Pune Manufacturing Hub,Pune,Maharashtra,West,Asia/Kolkata,500
+PLT-002,Chennai Heavy Engineering,Chennai,Tamil Nadu,South,Asia/Kolkata,350
+PLT-003,Jamshedpur Steel Works,Jamshedpur,Jharkhand,East,Asia/Kolkata,400

@@ -1,0 +1,41 @@
+material_id,material_type,description,uom,unit_cost,lead_time_days,category
+FG-PUMP-A100,FG,Centrifugal Pump Assembly A100,EA,4500.00,5,pumps
+FG-PUMP-B200,FG,Submersible Pump Assembly B200,EA,6200.00,7,pumps
+FG-VALVE-C300,FG,Gate Valve Assembly C300,EA,1800.00,3,valves
+FG-MOTOR-D400,FG,Industrial Motor Assembly D400,EA,8500.00,8,motors
+FG-COMP-E500,FG,Air Compressor Unit E500,EA,12000.00,10,compressors
+FG-GENSET-F600,FG,Diesel Generator Set F600,EA,25000.00,14,generators
+FG-HEAT-G700,FG,Heat Exchanger Unit G700,EA,9500.00,6,heat_exchangers
+FG-FILTER-H800,FG,Industrial Filter Press H800,EA,5800.00,5,filters
+FG-MIXER-I900,FG,Chemical Mixer Assembly I900,EA,7200.00,6,mixers
+FG-CONV-J100,FG,Belt Conveyor System J100,EA,15000.00,12,conveyors
+SA-MOTOR-ASSY-B200,SA,Motor Sub-Assembly B200,EA,2800.00,3,sub_assembly
+SA-IMPELLER-KIT,SA,Impeller Kit Assembly,EA,650.00,2,sub_assembly
+SA-SEAL-HOUSING,SA,Seal Housing Assembly,EA,420.00,2,sub_assembly
+SA-CONTROL-PANEL,SA,Control Panel Assembly,EA,1800.00,4,sub_assembly
+SA-GEARBOX-UNIT,SA,Gearbox Sub-Assembly,EA,3200.00,5,sub_assembly
+RM-STEEL-PLATE-5MM,RM,Steel Plate 5mm Thickness,KG,85.00,7,metals
+RM-STEEL-PLATE-10MM,RM,Steel Plate 10mm Thickness,KG,92.00,7,metals
+RM-COPPER-WIRE-2MM,RM,Copper Wire 2mm Diameter,M,12.50,10,metals
+RM-COPPER-PIPE-15MM,RM,Copper Pipe 15mm OD,M,28.00,10,metals
+RM-BEARING-6205,RM,Ball Bearing 6205-2RS,EA,145.00,5,bearings
+RM-BEARING-6308,RM,Ball Bearing 6308-ZZ,EA,210.00,5,bearings
+RM-SHAFT-SS-20MM,RM,Stainless Steel Shaft 20mm,EA,380.00,8,shafts
+RM-SHAFT-SS-35MM,RM,Stainless Steel Shaft 35mm,EA,520.00,8,shafts
+RM-SEAL-KIT-VITON,RM,Viton Seal Kit Standard,EA,95.00,4,seals
+RM-SEAL-KIT-PTFE,RM,PTFE Seal Kit Heavy Duty,EA,135.00,4,seals
+RM-GASKET-RUBBER,RM,Rubber Gasket Ring 100mm,EA,22.00,3,seals
+RM-BOLT-M10-SS,RM,SS Bolt M10x50mm,EA,8.50,3,fasteners
+RM-BOLT-M12-SS,RM,SS Bolt M12x60mm,EA,12.00,3,fasteners
+RM-NUT-M10-SS,RM,SS Nut M10,EA,3.50,3,fasteners
+RM-WASHER-M10-SS,RM,SS Washer M10,EA,1.80,3,fasteners
+RM-PAINT-EPOXY-GREY,RM,Epoxy Paint Grey Industrial,L,450.00,5,consumables
+RM-LUBRICANT-SYNTH,RM,Synthetic Lubricant Grade A,L,320.00,4,consumables
+RM-CABLE-4CORE-2.5,RM,4-Core Cable 2.5 sq mm,M,65.00,6,electrical
+RM-CONTACTOR-40A,RM,AC Contactor 40A,EA,850.00,7,electrical
+RM-OVERLOAD-RELAY,RM,Thermal Overload Relay 25-40A,EA,620.00,7,electrical
+RM-IMPELLER-CAST-SS,RM,Cast SS Impeller Blank,EA,280.00,12,castings
+RM-HOUSING-CAST-CI,RM,Cast Iron Pump Housing Blank,EA,950.00,14,castings
+RM-FLANGE-150MM,RM,Steel Flange 150mm PN16,EA,185.00,5,flanges
+RM-PIPE-SS-50MM,RM,SS Pipe 50mm Schedule 40,M,220.00,6,piping
+RM-ELBOW-SS-50MM,RM,SS Elbow 90deg 50mm,EA,95.00,6,piping

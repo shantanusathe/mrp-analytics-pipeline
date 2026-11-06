@@ -1,0 +1,16 @@
+supplier_id,supplier_name,city,state,category,avg_lead_time_days,reliability_rating,payment_terms_days
+SUP-TATA-STEEL,Tata Steel Ltd,Jamshedpur,Jharkhand,metals,7,4.5,30
+SUP-JSPL,Jindal Steel & Power,Raigarh,Chhattisgarh,metals,9,3.8,30
+SUP-HINDALCO,Hindalco Industries,Mumbai,Maharashtra,metals,8,4.2,45
+SUP-SKF-INDIA,SKF India Ltd,Pune,Maharashtra,bearings,5,4.8,30
+SUP-NBC-BEARING,NBC Bearings,Jaipur,Rajasthan,bearings,6,4.0,30
+SUP-SANDVIK,Sandvik Asia,Pune,Maharashtra,shafts,10,4.6,45
+SUP-SEALMATIC,Sealmatic India,Ahmedabad,Gujarat,seals,4,4.3,30
+SUP-GARLOCK,Garlock India,Chennai,Tamil Nadu,seals,5,4.1,30
+SUP-SUNDRAM-FAST,Sundram Fasteners,Chennai,Tamil Nadu,fasteners,3,4.7,15
+SUP-LAKSHMI-CAST,Lakshmi Precision Castings,Coimbatore,Tamil Nadu,castings,14,3.9,45
+SUP-POLYCAB,Polycab India,Vadodara,Gujarat,electrical,6,4.4,30
+SUP-SIEMENS-IND,Siemens India,Mumbai,Maharashtra,electrical,7,4.9,45
+SUP-BERGER-PAINTS,Berger Paints Industrial,Kolkata,West Bengal,consumables,5,4.0,15
+SUP-GULF-OIL,Gulf Oil Lubricants,Mumbai,Maharashtra,consumables,4,4.2,15
+SUP-RATNAMANI,Ratnamani Metals,Ahmedabad,Gujarat,piping,8,4.1,30
