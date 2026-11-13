@@ -281,4 +281,3 @@ SAFETY_STOCK_LOOKUP: dict[tuple[str, str], dict[str, Any]] = {
 MATERIALS_BY_CATEGORY: dict[str, list[str]] = {}
 for _m in RAW_MATERIALS:
     MATERIALS_BY_CATEGORY.setdefault(_m["category"], []).append(_m["material_id"])
-# Include flanges explicitly (not a separate supplier category; mapped via piping)
