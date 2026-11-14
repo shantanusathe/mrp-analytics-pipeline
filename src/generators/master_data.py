@@ -277,7 +277,7 @@ SAFETY_STOCK_LOOKUP: dict[tuple[str, str], dict[str, Any]] = {
     (ss["material_id"], ss["plant_code"]): ss for ss in SAFETY_STOCK
 }
 
-# Category → list of matching raw-material IDs (used by supplier generator)
+# Category → list of matching raw-material IDs
 MATERIALS_BY_CATEGORY: dict[str, list[str]] = {}
 for _m in RAW_MATERIALS:
     MATERIALS_BY_CATEGORY.setdefault(_m["category"], []).append(_m["material_id"])
