@@ -4,7 +4,7 @@
 
 ## Architecture
 
-*(You'll add the architecture diagram here as you build)*
+*(TBD)*
 
 ## Tech Stack
 
@@ -52,7 +52,7 @@ python scripts/run_pipeline.py
 
 ## Project Structure
 
-*(Document as you build each phase)*
+*(TBD)*
 
 ## Seed Data
 
