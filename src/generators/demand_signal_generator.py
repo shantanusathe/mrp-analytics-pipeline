@@ -6,7 +6,7 @@ from typing import Any
 from .master_data import FINISHED_GOODS, PLANT_CODES
 
 
-def demand_signal_generator(
+def generate_demand_signal(
     plant_code: str | None = None,
     material_id: str |None = None,
 ) -> dict[str, Any]:
@@ -66,5 +66,5 @@ def demand_signal_generator(
 
 if __name__ == "__main__":
     import json
-    demand_signal = demand_signal_generator()
+    demand_signal = generate_demand_signal()
     print(f"{json.dumps(demand_signal, indent=2)}")
